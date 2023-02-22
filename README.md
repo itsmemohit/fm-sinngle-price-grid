@@ -22,7 +22,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ### Links
 
 - Solution URL: [Github repo](https://github.com/itsmemohit/fm-sinngle-price-grid.git)
-- Live Site URL: [Netlify live site url](https://peaceful-stroopwafel-16745e.netlify.app/)
+- Live Site URL: [Netlify live site url](https://admirable-frangollo-c7473b.netlify.app/)
 
 ## My process
 
